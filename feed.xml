@@ -8,7 +8,12 @@
     <language>en-gb</language>
     <itunes:author>various</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-
+	
+	<image>
+	  <url>https://github.com/yellowfog/us-politics/theo.jpg</url>
+	  <title>Theo - US Politics</title>
+	</image>
+	
     <item>
       <title>Interest Groups - Civics 101 ep 39 </title>
       <description>Lobbying.</description>
