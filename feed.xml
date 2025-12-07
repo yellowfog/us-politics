@@ -9,17 +9,40 @@
     <itunes:author>various</itunes:author>
     <itunes:explicit>no</itunes:explicit>
 
-    <!-- Episode 1 -->
     <item>
-      <title>Episode 001 – Example title</title>
-      <description>Short description of the episode.</description>
-      <pubDate>Mon, 01 Dec 2014 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tal-001</guid>
+      <title>Interest Groups - Civics 101 ep 39 </title>
+      <description>Lobbying.</description>
+      <pubDate>Sat, 01 Jul 2017 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">int-001</guid>
+      <enclosure
+        url="https://static1.squarespace.com/static/588f62dee4fcb5a6cdd48208/t/6149f39dc8615234adb5511b/1632236480169/Lobbying-VirginiaPrescottEpisode.mp3/original/Lobbying-VirginiaPrescottEpisode.mp3"
+        length="0"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Interest Groups - This American Life ep 461</title>
+      <description>Take the money and run for office.</description>
+      <pubDate>Fri, 30 Mar 2012 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">int-002</guid>
       <enclosure
         url="https://www.thisamericanlife.org/sites/default/files/audio/461/FZoiJT-gp9T6Xi4yhI-y9eDCPoOWnqxPPBn52bmoq3Q/461.mp3"
         length="0"
         type="audio/mpeg" />
     </item>
+
+    <item>
+      <title>Interest Groups - Democracy and its Discontents ep 2</title>
+      <description>Money and Power.</description>
+      <pubDate>Mon, 16 Sep 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">int-003</guid>
+      <enclosure
+        url="https://podcasts.captivate.fm/media/3366ee2a-b8ad-4d29-8384-3261f9bfce03/https-3a-2f-2fd3ctxlq1ktw2nl-cloudfront-net-2fstaging-2f2024-8.mp3"
+        length="0"
+        type="audio/mpeg" />
+    </item>
+
+
 
 
   </channel>
